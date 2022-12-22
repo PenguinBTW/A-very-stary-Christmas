@@ -1,4 +1,4 @@
-# A-very-stary-Christmas#
+# A-very-stary-Christmas
 
 This is an addon which adds gifts and loads of decorations 
 
