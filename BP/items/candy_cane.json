@@ -1,0 +1,28 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "pb:candy_cane",
+			"category": "nature"
+		},
+		"components": {
+			"minecraft:weapon": {},
+			"minecraft:damage": 0,
+			"minecraft:icon": {
+				"texture": "pb_candy_cane"
+			},
+			"minecraft:on_use": {
+				"on_use": {
+					"event": "use_item"
+				}
+			}
+		},
+		"events": {
+			"use_item": {
+				"run_command": {
+					"command": "/particle pb:candycanepar ~ ~ ~"
+				}
+			}
+		}
+	}
+}

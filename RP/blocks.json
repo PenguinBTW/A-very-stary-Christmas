@@ -1,0 +1,76 @@
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"pb:smallwhitepresent": {
+		"sound": "stone"
+	},
+	"pb:smallblackpresent": {
+		"sound": "stone"
+	},
+	"pb:smallbrownpresent": {
+		"sound": "stone"
+	},
+	"pb:smalllightgreypresent": {
+		"sound": "stone"
+	},
+	"pb:smalldarkgreypresent": {
+		"sound": "stone"
+	},
+	"pb:smallredpresent": {
+		"sound": "stone"
+	},
+	"pb:smallorangepresent": {
+		"sound": "stone"
+	},
+	"pb:smallyellowpresent": {
+		"sound": "stone"
+	},
+	"pb:": {
+		"sound": "stone"
+	},
+	"pb:christmastree": {
+		"sound": "stone"
+	},
+	"pb:decchristmastree": {
+		"sound": "stone"
+	},
+	"pb:decochristmastree": {
+		"sound": "stone"
+	},
+	"pb:wreath": {
+		"sound": "stone"
+	},
+	"pb:snowman": {
+		"sound": "stone"
+	},
+	"pb:smalllimepresent": {
+		"sound": "stone"
+	},
+	"pb:smallgreenpresent": {
+		"sound": "stone"
+	},
+	"pb:smallcyanpresent": {
+		"sound": "stone"
+	},
+	"pb:smallbluepresent": {
+		"sound": "stone"
+	},
+	"pb:smalldarkbluepresent": {
+		"sound": "stone"
+	},
+	"pb:smallpurplepresent": {
+		"sound": "stone"
+	},
+	"pb:smallmagentapresent": {
+		"sound": "stone"
+	},
+	"pb:smallpinkpresent": {
+		"sound": "stone"
+	},
+	"pb:christmaspresent": {
+		"sound": "stone"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "pb:rich_candycane",
+			"category": "nature"
+		},
+		"components": {
+			"minecraft:use_duration": 10,
+			"minecraft:food": {
+				"nutrition": 20,
+				"saturation_modifier": "max"
+			},
+			"minecraft:icon": {
+				"texture": "pb_rich_candycane"
+			},
+			"minecraft:use_animation": "eat",
+			"minecraft:render_offsets": "apple"
+		}
+	}
+}

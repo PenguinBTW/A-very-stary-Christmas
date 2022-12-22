@@ -1,0 +1,80 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "A very stary christmas",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"pb_smallwhitepresent": {
+			"textures": "textures/blocks/SmallWhitePresent"
+		},
+		"pb_smallblackpresent": {
+			"textures": "textures/blocks/Small Black Present"
+		},
+		"pb_smallbrownpresent": {
+			"textures": "textures/blocks/Small Brown Present"
+		},
+		"pb_smalllightgreypresent": {
+			"textures": "textures/blocks/Small light gray Present"
+		},
+		"pb_smalldarkgreypresent": {
+			"textures": "textures/blocks/Small dark gray Present"
+		},
+		"pb_smallredpresent": {
+			"textures": "textures/blocks/Small Red Present"
+		},
+		"pb_smallorangepresent": {
+			"textures": "textures/blocks/Small Orange Present"
+		},
+		"pb_smallyellowpresent": {
+			"textures": "textures/blocks/Small Yellow Present"
+		},
+		"pb_": {
+			"textures": "textures/blocks/"
+		},
+		"pb_christmastree": {
+			"textures": "textures/blocks/tree"
+		},
+		"pb_decchristmastree": {
+			"textures": "textures/blocks/deco"
+		},
+		"pb_decochristmastree": {
+			"textures": "textures/blocks/deco"
+		},
+		"pb_wreath": {
+			"textures": "textures/blocks/wreath"
+		},
+		"pb_snowman": {
+			"textures": "textures/blocks/snowmannew"
+		},
+		"pb_smalllimepresent": {
+			"textures": "textures/blocks/Small Lime Present"
+		},
+		"pb_smallgreenpresent": {
+			"textures": "textures/blocks/Small Green Present"
+		},
+		"pb_smallcyanpresent": {
+			"textures": "textures/blocks/Small Cyan Present"
+		},
+		"pb_smallbluepresent": {
+			"textures": "textures/blocks/Small Blue Present"
+		},
+		"pb_smalldarkbluepresent": {
+			"textures": "textures/blocks/Small Dark Blue Present"
+		},
+		"pb_smallpurplepresent": {
+			"textures": "textures/blocks/Small Purple Present"
+		},
+		"pb_smallmagentapresent": {
+			"textures": "textures/blocks/small magentav2 present"
+		},
+		"pb_smallpinkpresent": {
+			"textures": "textures/blocks/small pink present"
+		},
+		"pb_christmaspresent": {
+			"textures": "textures/blocks/texture"
+		},
+		"pb_u": {
+			"textures": "textures/blocks/u"
+		}
+	}
+}

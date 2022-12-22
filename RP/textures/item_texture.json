@@ -1,0 +1,36 @@
+{
+	"resource_pack_name": "A very stary Christmas",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"pb_candy_cane": {
+			"textures": "textures/items/candycanepixel"
+		},
+		"pb_edible_candycane": {
+			"textures": "textures/items/candycanepixeleat"
+		},
+		"pb_rich_candycane": {
+			"textures": "textures/items/richcandycane"
+		},
+		"pb_gift_egg": {
+			"textures": "textures/items/gifttexture (1)"
+		},
+		"pb_gift_spawner": {
+			"textures": "textures/items/giftspawner"
+		},
+		"pb_yellow_gift_spawner": {
+			"textures": "textures/items/giftspawneryellow"
+		},
+		"pb_yellow_gift_egg": {
+			"textures": "textures/items/giftlogo"
+		},
+		"pb_magenta_gift_egg": {
+			"textures": "textures/items/giftlogo2"
+		},
+		"pb_magenta_gift_spawner": {
+			"textures": "textures/items/giftspawnermagenta"
+		},
+		"pb_gingerbread_man": {
+			"textures": "textures/items/gingerbreadman"
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "pb:giftrecipe"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "pb:christmaspresent"
+			},
+			{
+				"item": "minecraft:iron_ingot"
+			}
+		],
+		"result": {
+			"item": "pb:gift_spawner"
+		}
+	}
+}

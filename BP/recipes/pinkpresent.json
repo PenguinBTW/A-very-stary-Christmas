@@ -1,0 +1,22 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "pb:pinkpresent"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "pb:christmaspresent"
+			},
+			{
+				"item": "minecraft:pink_dye"
+			}
+		],
+		"result": {
+			"item": "pb:smallpinkpresent"
+		}
+	}
+}

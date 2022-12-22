@@ -1,0 +1,49 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "pb:christmaspresent",
+			"is_experimental": false,
+			"register_to_creative_menu ": true
+		},
+		"components": {
+			"minecraft:creative_category": {
+				"category": "construction"
+			},
+			"minecraft:display_name": "Christmas Present",
+			"minecraft:block_light_absorption": 1,
+			"minecraft:destroy_time": 1.5,
+			"minecraft:geometry": "geometry.christmaspresent",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "pb_christmaspresent",
+					"render_method": "alpha_test"
+				}
+			},
+			"minecraft:pick_collision": {
+				"origin": [
+					-6,
+					0,
+					-6
+				],
+				"size": [
+					12,
+					12,
+					12
+				]
+			},
+			"minecraft:entity_collision": {
+				"origin": [
+					-6,
+					0,
+					-6
+				],
+				"size": [
+					12,
+					12,
+					12
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:entity": {
+		"description": {
+			"identifier": "pb:magenta_gift",
+			"is_spawnable": true,
+			"is_summonable": true,
+			"is_experimental": false
+		},
+		"component_groups": {},
+		"components": {
+			"minecraft:inventory": {
+				"inventory_size": 5,
+				"container_type": "hopper",
+				"can_be_siphoned_from": true
+			},
+			"minecraft:health": {
+				"max": 100,
+				"value": 100
+			},
+			"minecraft:physics": {},
+			"minecraft:collision_box": {
+				"height": 1,
+				"width": 1
+			},
+			"minecraft:knockback_resistance": {
+				"value": 20,
+				"max": 20
+			},
+			"minecraft:loot": {
+				"table": "loot_tables/magenta_gift.json"
+			}
+		}
+	}
+}

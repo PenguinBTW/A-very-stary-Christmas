@@ -1,0 +1,22 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "pb:redpresent"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "pb:christmaspresent"
+			},
+			{
+				"item": "minecraft:red_dye"
+			}
+		],
+		"result": {
+			"item": "pb:smallredpresent"
+		}
+	}
+}

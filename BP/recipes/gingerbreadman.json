@@ -1,0 +1,30 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pb:gingerbreadman"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"a": {
+				"item": "minecraft:sugar"
+			},
+			"b": {
+				"item": "minecraft:brown_dye"
+			},
+			"c": {
+				"item": "minecraft:bread"
+			}
+		},
+		"pattern": [
+			"aba",
+			"ccc",
+			"aba"
+		],
+		"result": {
+			"item": "pb:gingerbread_man"
+		}
+	}
+}

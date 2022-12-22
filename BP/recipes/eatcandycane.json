@@ -1,0 +1,33 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pb:eatcandycane"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"a": {
+				"item": "minecraft:apple"
+			},
+			"b": {
+				"item": "carrot"
+			},
+			"c": {
+				"item": "minecraft:beetroot"
+			},
+			"d": {
+				"item": "pb:candy_cane"
+			}
+		},
+		"pattern": [
+			"aaa",
+			"cdc",
+			"bbb"
+		],
+		"result": {
+			"item": "pb:edible_candycane"
+		}
+	}
+}

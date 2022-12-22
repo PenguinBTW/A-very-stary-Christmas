@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"PenguinBTW and decorations by firetype gaming"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.5.2"
+			],
+			"dash": [
+				"0.10.8"
+			]
+		}
+	},
+	"header": {
+		"name": "A very stary Christmas",
+		"description": "The offical starlit SMP christmas addon made by penguinbtw with decorations by firetypegaming",
+		"min_engine_version": [
+			1,
+			19,
+			50
+		],
+		"uuid": "45dbcf87-c1fc-4aa4-a209-1a67312e9e3b",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "f9e86a7e-d54e-4d09-a0cc-8c10e9bfa32d",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "f27defa3-6db5-4562-a733-124a19d6b422",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

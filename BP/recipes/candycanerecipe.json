@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pb:candycanerecipe"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"a": {
+				"item": "minecraft:sugar"
+			},
+			"b": {
+				"item": "minecraft:diamond"
+			}
+		},
+		"pattern": [
+			"aaa",
+			"aba",
+			"aaa"
+		],
+		"result": {
+			"item": "pb:candy_cane"
+		}
+	}
+}

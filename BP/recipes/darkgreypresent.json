@@ -1,0 +1,22 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "pb:greypresent"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "pb:christmaspresent"
+			},
+			{
+				"item": "minecraft:gray_dye"
+			}
+		],
+		"result": {
+			"item": "pb:smalldarkgreypresent"
+		}
+	}
+}

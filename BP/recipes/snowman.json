@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "pb:snowman"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"a": {
+				"item": "minecraft:snow"
+			},
+			"b": {
+				"item": "minecraft:snowball"
+			}
+		},
+		"pattern": [
+			" b ",
+			" a ",
+			" a "
+		],
+		"result": {
+			"item": "pb:snowman"
+		}
+	}
+}

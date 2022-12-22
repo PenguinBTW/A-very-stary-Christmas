@@ -1,0 +1,48 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "pb:smallmagentapresent",
+			"is_experimental": false,
+			"register_to_creative_menu ": true
+		},
+		"components": {
+			"minecraft:creative_category": {
+				"category": "construction"
+			},
+			"minecraft:geometry": "geometry.smallmagentapresent",
+			"minecraft:block_light_absorption": 1,
+			"minecraft:destroy_time": 1.5,
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "pb_smallmagentapresent",
+					"render_method": "alpha_test"
+				}
+			},
+			"minecraft:pick_collision": {
+				"origin": [
+					-4,
+					0,
+					-4
+				],
+				"size": [
+					8,
+					8,
+					8
+				]
+			},
+			"minecraft:entity_collision": {
+				"origin": [
+					-4,
+					0,
+					-4
+				],
+				"size": [
+					8,
+					8,
+					8
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,49 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "pb:smallblackpresent",
+			"is_experimental": false,
+			"register_to_creative_menu ": true
+		},
+		"components": {
+			"minecraft:creative_category": {
+				"category": "construction"
+			},
+			"minecraft:display_name": "Small Black Present",
+			"minecraft:block_light_absorption": 1,
+			"minecraft:destroy_time": 1.5,
+			"minecraft:geometry": "geometry.smallblackpresent",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "pb_smallblackpresent",
+					"render_method": "alpha_test"
+				}
+			},
+			"minecraft:pick_collision": {
+				"origin": [
+					-4,
+					0,
+					-4
+				],
+				"size": [
+					8,
+					8,
+					8
+				]
+			},
+			"minecraft:entity_collision": {
+				"origin": [
+					-4,
+					0,
+					-4
+				],
+				"size": [
+					8,
+					8,
+					8
+				]
+			}
+		}
+	}
+}
